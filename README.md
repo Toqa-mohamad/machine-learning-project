@@ -42,8 +42,9 @@ Libraries Used:
 ⦁	Matplotlib
 ⦁	Scikit-learn
 
- Conclusion:
+Conclusion:
 Regression techniques are effective for predicting temperature when
 relevant weather features are used.
-✍️ Author
+
+Author:
 Toqa Mohammad ,Rahaf rfou ,Sewar Saleh
